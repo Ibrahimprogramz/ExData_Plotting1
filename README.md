@@ -1,3 +1,7 @@
+##Project1 assignment solution
+#the R scripts conducts all operations in the working directory
+
+
 ## Introduction
 
 This assignment uses data from
